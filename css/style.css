@@ -70,7 +70,7 @@ body {
 
 .sm-product-img {
     width: 100%;
-    height: 15vw;
+    height: 25vw;
     object-fit: cover;
 }
 
@@ -142,7 +142,7 @@ body {
 }
 
 .product-des {
-    margin: 4vw;
+    margin: 4vw 0;
     width: 90%;
     font-size: 1.2vw;
     line-height: 2vw;
